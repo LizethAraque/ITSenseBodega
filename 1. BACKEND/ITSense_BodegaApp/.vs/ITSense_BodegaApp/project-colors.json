@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "49b0dc73-ff6b-4897-b5ac-4031229ccc2f": {
+      "ProjectGuid": "49b0dc73-ff6b-4897-b5ac-4031229ccc2f",
+      "DisplayName": "ITSense_Bodega",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
